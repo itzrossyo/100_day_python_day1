@@ -1,3 +1,5 @@
+print(6 + 4 / 2 - (1 * 2))
+
 age = (input("please enter you age"))
 Total_years = 90
 total_weeks = 4696
